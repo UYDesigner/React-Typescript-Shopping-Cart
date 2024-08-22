@@ -1,0 +1,51 @@
+[
+    
+    {
+        "id": 1,
+        "name": "Apple Smart Watch",
+        "price": 89.73,
+        "img": "/images/A-watch.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Apple Blutooth Ear-Pods",
+        "price": 33.80,
+        "img": "/images/blue-pod.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Tacno Ear-Pods 11",
+        "price": 15.22,
+        "img": "/images/a-pod4.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Apple IPhone 12",
+        "price": 147.97,
+        "img": "/images/A-p2.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Tacno White Ear-Pods",
+        "price": 18,
+        "img": "/images/a-pod3.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Asun Black Ear-Pods Modelno234E",
+        "price": 15.22,
+        "img": "/images/a-pod2.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Apple IPhone 12 In Blue",
+        "price": 145,
+        "img": "/images/a-p.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Apple Ear-Pods In Black",
+        "price": 67.45,
+        "img": "/images/a-pod1.jpg"
+    }
+]
